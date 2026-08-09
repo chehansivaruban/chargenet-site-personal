@@ -1,0 +1,412 @@
+- generic [ref=f25e2]:
+  - navigation [ref=f25e3]:
+    - generic [ref=f25e4]:
+      - link [ref=f25e6] [cursor=pointer]:
+        - /url: /
+        - img "ChargeNet Logo" [ref=f25e8]
+      - generic [ref=f25e9]:
+        - button "Catalog" [ref=f25e11]
+        - button "Business" [ref=f25e16]
+        - link "About" [ref=f25e20] [cursor=pointer]:
+          - /url: /about
+      - generic [ref=f25e21]:
+        - link "Login" [ref=f25e22] [cursor=pointer]:
+          - /url: /login
+        - link "Contact" [ref=f25e27] [cursor=pointer]:
+          - /url: /contact
+        - button "Toggle Navigation Panel" [ref=f25e29] [cursor=pointer]
+  - main [ref=f25e34]:
+    - generic [ref=f25e35]:
+      - img "Sri Lanka Charging Grid Background" [ref=f25e37]
+      - heading "S r i L a n k a ’ s F i r s t & L a r g e s t E V N e t w o r k" [level=1] [ref=f25e41]:
+        - generic [ref=f25e42]:
+          - generic [ref=f25e43]: S
+          - generic [ref=f25e44]: r
+          - generic [ref=f25e45]: i
+        - generic [ref=f25e46]:
+          - generic [ref=f25e47]: L
+          - generic [ref=f25e48]: a
+          - generic [ref=f25e49]: "n"
+          - generic [ref=f25e50]: k
+          - generic [ref=f25e51]: a
+          - generic [ref=f25e52]: ’
+          - generic [ref=f25e53]: s
+        - generic [ref=f25e54]:
+          - generic [ref=f25e55]: F
+          - generic [ref=f25e56]: i
+          - generic [ref=f25e57]: r
+          - generic [ref=f25e58]: s
+          - generic [ref=f25e59]: t
+        - generic [ref=f25e60]: "&"
+        - generic [ref=f25e62]:
+          - generic [ref=f25e63]: L
+          - generic [ref=f25e64]: a
+          - generic [ref=f25e65]: r
+          - generic [ref=f25e66]: g
+          - generic [ref=f25e67]: e
+          - generic [ref=f25e68]: s
+          - generic [ref=f25e69]: t
+        - generic [ref=f25e70]:
+          - generic [ref=f25e71]: E
+          - generic [ref=f25e72]: V
+        - generic [ref=f25e73]:
+          - generic [ref=f25e74]: "N"
+          - generic [ref=f25e75]: e
+          - generic [ref=f25e76]: t
+          - generic [ref=f25e77]: w
+          - generic [ref=f25e78]: o
+          - generic [ref=f25e79]: r
+          - generic [ref=f25e80]: k
+      - generic [ref=f25e83]:
+        - generic [ref=f25e84]:
+          - generic [ref=f25e85]: CE MARK
+          - generic [ref=f25e87]:
+            - generic [ref=f25e88]: CE COMPLIANT
+            - generic [ref=f25e89]: EEA Safety Standard
+        - generic [ref=f25e95]:
+          - generic [ref=f25e96]: ISO 9001:2015
+          - generic [ref=f25e97]: Quality Management
+        - generic [ref=f25e103]:
+          - generic [ref=f25e104]: ISO 14001:2015
+          - generic [ref=f25e105]: Environmental System
+        - generic [ref=f25e111]:
+          - generic [ref=f25e112]: ISO 45001:2018
+          - generic [ref=f25e113]: Occupational Safety
+    - generic [ref=f25e114]:
+      - img "ChargeNET home charger at a coastal residence" [ref=f25e118]
+      - img "ChargeNET commercial fast-charging hub at dusk" [ref=f25e122]
+      - generic [ref=f25e125]:
+        - heading "Infrastructure" [level=3] [ref=f25e142]
+        - paragraph [ref=f25e143]: Island-wide load distribution, thermal diagnostics, and dynamic power routing.
+      - generic [ref=f25e146]:
+        - heading "Connectivity" [level=3] [ref=f25e153]
+        - paragraph [ref=f25e154]: Instant OTA updates, integrated ticketing, and live telemetry at 99.9% uptime.
+      - heading "We rebuild electric grids to enable high-efficiency, long-distance travel — designed, built, and operated with clean electric reliability." [level=2] [ref=f25e156]:
+        - generic [ref=f25e157]: We rebuild electric grids
+        - generic [ref=f25e158]: to enable high-efficiency,
+        - generic [ref=f25e159]: long-distance travel —
+        - generic [ref=f25e160]: designed, built, and operated
+        - generic [ref=f25e161]: with clean electric reliability.
+      - generic:
+        - generic: Scroll
+        - generic: Down
+    - generic [ref=f25e163]:
+      - generic [ref=f25e164]:
+        - generic [ref=f25e165]:
+          - generic [ref=f25e166]: HARDWARE & SOFTWARE SOLUTIONS
+          - heading "Charging solutions for EVs" [level=3] [ref=f25e167]
+        - paragraph [ref=f25e168]: Intelligent, scalable charging infrastructure engineered for home convenience, rapid commercial networks, and seamless mobile management.
+      - generic [ref=f25e169]:
+        - generic [ref=f25e170] [cursor=pointer]:
+          - img "Home charging" [ref=f25e172]
+          - generic [ref=f25e174]:
+            - generic [ref=f25e175]: →
+            - heading "Home charging" [level=3] [ref=f25e176]
+          - paragraph [ref=f25e177]: The ChargeNET charger is a smart, powerful and safe electric car charger for use at home.
+        - generic [ref=f25e178] [cursor=pointer]:
+          - img "Commercial charging" [ref=f25e180]
+          - generic [ref=f25e182]:
+            - generic [ref=f25e183]: →
+            - heading "Commercial charging" [level=3] [ref=f25e184]
+          - paragraph [ref=f25e185]: Are you considering offering electric car chargers to employees or customers? With ChargeNET, you get a flexible, scalable and future-proof charging solution.
+        - generic [ref=f25e186] [cursor=pointer]:
+          - img "App" [ref=f25e188]
+          - generic [ref=f25e190]:
+            - generic [ref=f25e191]: →
+            - heading "App" [level=3] [ref=f25e192]
+          - paragraph [ref=f25e193]: Unlock chargers with RFID smart cards, manage your virtual wallet, and watch live charging telemetry on the go.
+      - generic [ref=f25e195]:
+        - generic [ref=f25e197]:
+          - heading "Predictive Charge Efficiency Calculator" [level=3] [ref=f25e198]
+          - paragraph [ref=f25e199]: Select a ChargeNET station class grid, toggle battery sizing specifications, and estimate exactly how long taking standard top-ups takes down to the minute.
+          - generic [ref=f25e200]:
+            - button "Home Charging" [ref=f25e201]
+            - button "Commercial Charging" [ref=f25e202]
+          - generic [ref=f25e203]:
+            - generic [ref=f25e204]:
+              - generic [ref=f25e205]: Charger Output Rating
+              - generic [ref=f25e206]: 20 kW
+            - slider [ref=f25e207] [cursor=pointer]: "20"
+            - generic [ref=f25e208]:
+              - generic [ref=f25e209]: 20 kW (Compact AC)
+              - generic [ref=f25e210]: 22 kW (Max Home AC)
+          - generic [ref=f25e211]:
+            - generic [ref=f25e212]:
+              - generic [ref=f25e213]:
+                - generic [ref=f25e214]: Battery Capacity Sizing
+                - generic [ref=f25e215]: 60 kWh
+              - slider [ref=f25e216] [cursor=pointer]: "60"
+              - generic [ref=f25e217]:
+                - generic [ref=f25e218]: 30 kWh (Compact EV)
+                - generic [ref=f25e219]: 110 kWh (Premium SUV)
+            - generic [ref=f25e220]:
+              - generic [ref=f25e221]:
+                - generic [ref=f25e222]:
+                  - generic [ref=f25e223]: Initial SoC (Start)
+                  - generic [ref=f25e224]: 20%
+                - slider [ref=f25e225]: "20"
+              - generic [ref=f25e226]:
+                - generic [ref=f25e227]:
+                  - generic [ref=f25e228]: Target SoC (End)
+                  - generic [ref=f25e229]: 80%
+                - slider [ref=f25e230]: "80"
+        - generic [ref=f25e231]:
+          - generic [ref=f25e232]:
+            - generic [ref=f25e233]: Expected session statistics
+            - heading "Residential AC Feed" [level=4] [ref=f25e235]
+            - generic [ref=f25e240]:
+              - generic [ref=f25e241]: Estimated Charging Time
+              - generic [ref=f25e242]: 1h 48m
+              - generic [ref=f25e243]: Providing 20 kW Feed Rate
+            - generic [ref=f25e244]:
+              - generic [ref=f25e245]:
+                - generic [ref=f25e246]: Energy Delivered
+                - generic [ref=f25e247]: 36.0 kWh
+              - generic [ref=f25e248]:
+                - generic [ref=f25e249]: Est. Range Added
+                - generic [ref=f25e250]: +227 km
+          - link "Locate stations on map" [ref=f25e252] [cursor=pointer]:
+            - /url: "#find-station"
+    - generic [ref=f25e261]:
+      - generic [ref=f25e262]: The ChargeNET Grid
+      - heading "Island-wide." [level=3] [ref=f25e263]
+    - generic [ref=f25e265]:
+      - generic [ref=f25e266]:
+        - generic [ref=f25e267]:
+          - generic [ref=f25e268]:
+            - generic [ref=f25e269]: "0"
+            - generic [ref=f25e270]: +
+          - generic [ref=f25e271]: active charging nodes across Sri Lanka
+        - heading "Every highway. Every corridor. Every province." [level=2] [ref=f25e272]
+        - paragraph [ref=f25e273]: From Jaffna to Hambantota, ChargeNET stations are positioned on every major artery — so you never plan a route around charging. Charging plans around you.
+        - generic [ref=f25e274]:
+          - generic [ref=f25e275]:
+            - generic [ref=f25e276]: "9"
+            - generic [ref=f25e277]: Provinces
+          - generic [ref=f25e278]:
+            - generic [ref=f25e279]: 99.9%
+            - generic [ref=f25e280]: Uptime
+          - generic [ref=f25e281]:
+            - generic [ref=f25e282]: 240kW
+            - generic [ref=f25e283]: Peak Output
+      - generic "Animated map of the ChargeNET charging station network across Sri Lanka" [ref=f25e286]
+    - generic [ref=f25e289]:
+      - generic [ref=f25e290]:
+        - generic [ref=f25e291]: CHARGENET APP
+        - heading "The ChargeNET app that gets your EV charged, anywhere." [level=2] [ref=f25e295]: The ChargeNET appthat gets your EVcharged, anywhere.
+        - generic [ref=f25e296]:
+          - link "Download on the App Store" [ref=f25e297] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f25e302]:
+              - generic [ref=f25e303]: Download on the
+              - generic [ref=f25e304]: App Store
+          - link "Get it on Google Play" [ref=f25e305] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f25e309]:
+              - generic [ref=f25e310]: Get it on
+              - generic [ref=f25e311]: Google Play
+      - img "ChargeNET mobile app" [ref=f25e316]
+    - generic [ref=f25e318]:
+      - heading "Partnered Install Base" [level=2] [ref=f25e320]
+      - generic [ref=f25e321]:
+        - generic [ref=f25e323]:
+          - img "Lanka IOC" [ref=f25e325]
+          - img "Lanka IOC" [ref=f25e327]
+        - generic [ref=f25e329]:
+          - img "Colombo City Centre" [ref=f25e331]
+          - img "Colombo City Centre" [ref=f25e333]
+        - generic [ref=f25e335]:
+          - img "John Keells Holdings" [ref=f25e337]
+          - img "John Keells Holdings" [ref=f25e339]
+        - generic [ref=f25e341]:
+          - img "Brandix" [ref=f25e343]
+          - img "Brandix" [ref=f25e345]
+        - generic [ref=f25e347]:
+          - img "Jaguar" [ref=f25e349]
+          - img "Jaguar" [ref=f25e351]
+        - generic [ref=f25e353]:
+          - img "Land Rover" [ref=f25e355]
+          - img "Land Rover" [ref=f25e357]
+        - generic [ref=f25e359]:
+          - img "Cinnamon Air" [ref=f25e361]
+          - img "Cinnamon Air" [ref=f25e363]
+        - generic [ref=f25e365]:
+          - img "Micro Cars" [ref=f25e367]
+          - img "Micro Cars" [ref=f25e369]
+        - generic [ref=f25e371]:
+          - img "Maga" [ref=f25e373]
+          - img "Maga" [ref=f25e375]
+        - generic [ref=f25e377]:
+          - img "AMW Capital Leasing" [ref=f25e379]
+          - img "AMW Capital Leasing" [ref=f25e381]
+        - generic [ref=f25e383]:
+          - img "EV Cosmos" [ref=f25e385]
+          - img "EV Cosmos" [ref=f25e387]
+        - generic [ref=f25e389]:
+          - img "Mayleen Group" [ref=f25e391]
+          - img "Mayleen Group" [ref=f25e393]
+        - generic [ref=f25e395]:
+          - img "Partner 1" [ref=f25e397]
+          - img "Partner 1" [ref=f25e399]
+        - generic [ref=f25e401]:
+          - img "Partner 2" [ref=f25e403]
+          - img "Partner 2" [ref=f25e405]
+        - generic [ref=f25e407]:
+          - img "Partner 3" [ref=f25e409]
+          - img "Partner 3" [ref=f25e411]
+        - generic [ref=f25e413]:
+          - img "Partner 4" [ref=f25e415]
+          - img "Partner 4" [ref=f25e417]
+        - generic [ref=f25e419]:
+          - img "Partner 5" [ref=f25e421]
+          - img "Partner 5" [ref=f25e423]
+    - generic [ref=f25e424]:
+      - generic: Ceylon R&D
+      - generic [ref=f25e425]:
+        - generic [ref=f25e427]:
+          - generic [ref=f25e428]:
+            - generic [ref=f25e429]: Local Manufacturing
+            - heading "Designed & Manufactured in Sri Lanka." [level=2] [ref=f25e432]
+          - paragraph [ref=f25e434]: All ChargeNET stations are designed, prototyped, and meticulously manufactured by our engineers in Colombo. Our systems are built to redefine local EV performance.
+        - generic [ref=f25e435]:
+          - generic [ref=f25e436]:
+            - generic [ref=f25e437]:
+              - generic [ref=f25e438]: Engineering Specifications
+              - generic [ref=f25e439]:
+                - generic [ref=f25e440]:
+                  - generic [ref=f25e441]: "01"
+                  - generic [ref=f25e442]: Heavy DC & AC Smart Modules
+                - heading "Power Electronics Integration" [level=3] [ref=f25e443]
+                - paragraph [ref=f25e444]: First-principles electronic design engineered to operate reliably under variable grid conditions. Our architectures leverage intelligent power distribution systems.
+                - list [ref=f25e445]:
+                  - listitem [ref=f25e446]:
+                    - generic [ref=f25e450]: Dynamic physical load balancing circuits
+                  - listitem [ref=f25e451]:
+                    - generic [ref=f25e455]: Built-in transient surge phase protection
+                  - listitem [ref=f25e456]:
+                    - generic [ref=f25e460]: Custom high-efficiency cooling layouts
+            - generic [ref=f25e461]:
+              - button "Power" [ref=f25e462]
+              - button "Firmware" [ref=f25e463]
+              - button "Enclosure" [ref=f25e464]
+          - generic [ref=f25e466]:
+            - generic [ref=f25e467]:
+              - generic [ref=f25e468]:
+                - button "power-architecture.dwg" [ref=f25e469]
+                - button "embedded-stack.fw" [ref=f25e471]
+                - button "enclosure.step" [ref=f25e472]
+              - generic [ref=f25e473]: COLOR RENDER
+            - generic [ref=f25e476]:
+              - img "ChargeNET hardware development and dynamic local engineering assembly" [ref=f25e477]
+              - generic: X 14.0 Y 46.0
+              - generic:
+                - generic: Dynamic physical load balancing circuits
+                - generic: Built-in transient surge phase protection
+                - generic: Custom high-efficiency cooling layouts
+            - generic [ref=f25e478]:
+              - generic [ref=f25e479]: LAYER 01/03 · COLOR RENDER
+              - generic [ref=f25e480]: ZOOM 128%
+    - generic [ref=f25e482]:
+      - generic [ref=f25e483]:
+        - heading "Engineered for driveways. Architected for enterprise." [level=2] [ref=f25e485]: Engineered for driveways.Architected for enterprise.
+        - paragraph [ref=f25e486]: Pick your circuit — the panel you don't need steps back, the one you do lights up.
+      - generic [ref=f25e487]:
+        - button "Active Circuit Home Charging Wake up fully charged without set-up struggles. Charge your vehicle smoothly and efficiently overnight in your driveway. Designed to withstand dynamic power spikes, our residential chargers run quietly and interface with domestic grids safely — matching off-peak Sri Lankan energy rates automatically. Dynamic load protection keeps all home appliances safe Configured natively for single-phase or three-phase setups Sleek dustproof wall mount option with dynamic controls Configure home setup" [ref=f25e488]:
+          - generic [ref=f25e489]:
+            - generic [ref=f25e490]: Active Circuit
+            - generic [ref=f25e496]:
+              - heading "Home Charging" [level=3] [ref=f25e497]
+              - heading "Wake up fully charged without set-up struggles." [level=4] [ref=f25e498]
+            - generic:
+              - paragraph [ref=f25e499]: Charge your vehicle smoothly and efficiently overnight in your driveway. Designed to withstand dynamic power spikes, our residential chargers run quietly and interface with domestic grids safely — matching off-peak Sri Lankan energy rates automatically.
+              - list [ref=f25e500]:
+                - listitem [ref=f25e501]:
+                  - generic [ref=f25e504]: Dynamic load protection keeps all home appliances safe
+                - listitem [ref=f25e505]:
+                  - generic [ref=f25e508]: Configured natively for single-phase or three-phase setups
+                - listitem [ref=f25e509]:
+                  - generic [ref=f25e512]: Sleek dustproof wall mount option with dynamic controls
+          - link "Configure home setup" [ref=f25e514] [cursor=pointer]:
+            - /url: /contact
+        - button "Standby Commercial & Fleet Turn static parking spaces into active company perks. Request enterprise layout" [ref=f25e518]:
+          - generic [ref=f25e519]:
+            - generic [ref=f25e520]: Standby
+            - generic [ref=f25e527]:
+              - heading "Commercial & Fleet" [level=3] [ref=f25e528]
+              - heading "Turn static parking spaces into active company perks." [level=4] [ref=f25e529]
+          - link "Request enterprise layout" [ref=f25e531] [cursor=pointer]:
+            - /url: /contact
+      - generic [ref=f25e544]:
+        - generic [ref=f25e545]:
+          - text: ChargeNET Sri Lanka
+          - heading "Ready to take the charge?" [level=3] [ref=f25e546]
+          - paragraph [ref=f25e547]: Configure your optimal dynamic setup with our Sri Lankan engineering team. Start charging clean and efficient today.
+        - link "Go to contact page" [ref=f25e549] [cursor=pointer]:
+          - /url: /contact
+  - contentinfo [ref=f25e558]:
+    - generic [ref=f25e559]:
+      - generic [ref=f25e560]:
+        - generic [ref=f25e561]:
+          - generic [ref=f25e562]:
+            - generic [ref=f25e563]: SRI LANKA HUB
+            - paragraph [ref=f25e564]: Bay 1-5, Trace Expert City, Tripoli Square, Colombo 10, Sri Lanka.
+          - generic [ref=f25e565]:
+            - generic [ref=f25e566]:
+              - generic [ref=f25e567]: Sales
+              - text: +94 11 422 2502
+            - generic [ref=f25e568]:
+              - generic [ref=f25e569]: General & Aftersales
+              - text: 011 555 1551 / 077 055 5553
+            - generic [ref=f25e570]:
+              - generic [ref=f25e571]: Inquiries
+              - generic [ref=f25e572]:
+                - link "sales@chargenet.lk" [ref=f25e573] [cursor=pointer]:
+                  - /url: mailto:sales@chargenet.lk
+                - link "info@chargenet.lk" [ref=f25e574] [cursor=pointer]:
+                  - /url: mailto:info@chargenet.lk
+        - generic [ref=f25e575]:
+          - generic [ref=f25e576]:
+            - generic [ref=f25e577]: UNITED KINGDOM HUB
+            - paragraph [ref=f25e578]: 87-89 Baker Street, London, W1U 6RJ, UK.
+          - generic [ref=f25e579]:
+            - generic [ref=f25e580]:
+              - generic [ref=f25e581]: General Operations
+              - text: +44 203 515 0055
+            - generic [ref=f25e582]:
+              - generic [ref=f25e583]: Inquiries
+              - link "info@chargenetgroup.co.uk" [ref=f25e584] [cursor=pointer]:
+                - /url: mailto:info@chargenetgroup.co.uk
+        - generic [ref=f25e585]:
+          - generic [ref=f25e586]:
+            - generic [ref=f25e587]: UNITED ARAB EMIRATES HUB
+            - paragraph [ref=f25e588]: "#5, 29th Floor Al Saqr Business Tower, Sheikh Zayed Rd, Dubai, United Arab Emirates."
+          - generic [ref=f25e589]:
+            - generic [ref=f25e590]:
+              - generic [ref=f25e591]: General Operations
+              - text: +971 52 1944 672
+            - generic [ref=f25e592]:
+              - generic [ref=f25e593]: Inquiries
+              - link "natashia@codegen.ae" [ref=f25e594] [cursor=pointer]:
+                - /url: mailto:natashia@codegen.ae
+      - generic [ref=f25e595]:
+        - generic [ref=f25e596]:
+          - link [ref=f25e597] [cursor=pointer]:
+            - /url: "#"
+            - img "chargeNET" [ref=f25e598]
+          - generic [ref=f25e599]: Global smart electric corridor grid
+        - generic [ref=f25e600]:
+          - link "Residential" [ref=f25e601] [cursor=pointer]:
+            - /url: "#home-chargers"
+          - link "Commercial" [ref=f25e602] [cursor=pointer]:
+            - /url: "#fast-chargers"
+          - link "Live Stations" [ref=f25e603] [cursor=pointer]:
+            - /url: "#find-station"
+          - link "App Ecosystem" [ref=f25e604] [cursor=pointer]:
+            - /url: "#app"
+      - generic [ref=f25e605]:
+        - generic [ref=f25e606]: © 2026 CHARGENET GROUP. ALL RIGHTS RESERVED.
+        - generic [ref=f25e607]:
+          - link "Privacy Policy" [ref=f25e608] [cursor=pointer]:
+            - /url: "#"
+          - link "Terms of Operations" [ref=f25e609] [cursor=pointer]:
+            - /url: "#"

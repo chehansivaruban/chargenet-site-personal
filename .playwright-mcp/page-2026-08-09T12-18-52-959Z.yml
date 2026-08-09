@@ -1,0 +1,68 @@
+- generic [active] [ref=f7e1]:
+  - link "Skip to main content" [ref=f7e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f7e4]:
+    - navigation [ref=f7e6]:
+      - generic [ref=f7e7]:
+        - link "D i r e c t o r s" [ref=f7e8] [cursor=pointer]:
+          - /url: /directors
+          - generic [ref=f7e10]:
+            - generic [ref=f7e11]: D
+            - generic [ref=f7e13]: i
+            - generic [ref=f7e15]: r
+            - generic [ref=f7e17]: e
+            - generic [ref=f7e19]: c
+            - generic [ref=f7e21]: t
+            - generic [ref=f7e23]: o
+            - generic [ref=f7e25]: r
+            - generic [ref=f7e27]: s
+        - link "W o r k" [ref=f7e29] [cursor=pointer]:
+          - /url: /work
+          - generic [ref=f7e31]:
+            - generic [ref=f7e32]: W
+            - generic [ref=f7e34]: o
+            - generic [ref=f7e36]: r
+            - generic [ref=f7e38]: k
+      - link [ref=f7e40] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f7e54]:
+        - link "F i l m & t v" [ref=f7e55] [cursor=pointer]:
+          - /url: /film-tv
+          - generic [ref=f7e56]:
+            - generic [ref=f7e57]:
+              - generic [ref=f7e58]: F
+              - generic [ref=f7e60]: i
+              - generic [ref=f7e62]: l
+              - generic [ref=f7e64]: m
+            - generic [ref=f7e66]: "&"
+            - generic [ref=f7e69]:
+              - generic [ref=f7e70]: t
+              - generic [ref=f7e72]: v
+        - link "C o n t a c t" [ref=f7e74] [cursor=pointer]:
+          - /url: /contact
+          - generic [ref=f7e76]:
+            - generic [ref=f7e77]: C
+            - generic [ref=f7e79]: o
+            - generic [ref=f7e81]: "n"
+            - generic [ref=f7e83]: t
+            - generic [ref=f7e85]: a
+            - generic [ref=f7e87]: c
+            - generic [ref=f7e89]: t
+  - main [ref=f7e91]:
+    - generic [ref=f7e93]:
+      - list [ref=f7e96]:
+        - listitem [ref=f7e97]
+      - text: "& &"
+      - generic [ref=f7e104]:
+        - generic [ref=f7e105]:
+          - generic [ref=f7e106]: SCROLL
+          - generic [ref=f7e112]: DOWN
+        - generic [ref=f7e113]:
+          - generic [ref=f7e114]: BIPOC-OWNED
+          - generic [ref=f7e116]: CREATIVE STUDIO
+          - generic [ref=f7e118]: PRODUCTION
+          - generic [ref=f7e120]: "&"
+          - generic [ref=f7e122]: POST-PRODUCTION COMPANY
+          - generic [ref=f7e124]: The Future Does Not Look Like The Past. Neither Do We
+  - paragraph [ref=f7e126]
+  - text: ▾ Empty

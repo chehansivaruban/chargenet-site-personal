@@ -1,0 +1,6 @@
+{
+  "name": "ChargeNET",
+  "description": "Sri Lanka’s First & Largest EV Charging Network",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

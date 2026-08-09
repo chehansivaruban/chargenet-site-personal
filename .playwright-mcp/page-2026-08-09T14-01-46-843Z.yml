@@ -1,0 +1,314 @@
+- generic [ref=f32e3]:
+  - generic [ref=f32e7]:
+    - link [ref=f32e9] [cursor=pointer]:
+      - /url: ./
+    - generic [ref=f32e15] [cursor=pointer]:
+      - paragraph [ref=f32e17]: close
+      - paragraph [ref=f32e19]: menu
+  - generic [ref=f32e22]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - img "Alethia's icon"
+    - generic [ref=f32e24]:
+      - generic [ref=f32e25]:
+        - heading "Where Ecosystem Science and Enterprise Strategy Meet" [level=1] [ref=f32e27]
+        - link [ref=f32e30]:
+          - /url: ./contact
+          - generic [ref=f32e31]:
+            - paragraph [ref=f32e33]: Let’s Talk
+            - generic [ref=f32e35] [cursor=pointer]
+      - heading "Know your impact—precisely. End-to-end environmental intelligence powered by science, blockchain, and transparent data you can trust." [level=4] [ref=f32e42]
+    - generic:
+      - generic [ref=f32e43]:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: "01."
+                      - generic:
+                        - paragraph: Gold-Standard Observation Systems
+                  - generic:
+                    - generic:
+                      - paragraph: Sensor towers, flux methods, & satellites track full carbon flux
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: "02."
+                      - generic:
+                        - paragraph: World-Class Atmospheric Monitoring (aMRV)
+                  - generic:
+                    - generic:
+                      - paragraph: Our system combines ground-truth data with real-time atmospheric measurements the same methods used in the WMO’s Annual State of the Global Climate Report.
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: "03."
+                      - generic:
+                        - paragraph: Integrated Algorithmic Processing
+                  - generic:
+                    - generic:
+                      - paragraph: High-frequency data is analyzed at every stage—ensuring accuracy, eliminating estimation bias, and turning raw data into decision-ready insights.
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: "04."
+                      - generic:
+                        - paragraph: Blockchain-Secured Traceability
+                  - generic:
+                    - generic:
+                      - paragraph: Every metric is verifiable, audit-ready, and tamper-proof—so you can meet regulatory expectations with credibility.
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: "05."
+                      - generic:
+                        - paragraph: Built for Scale and Complexity
+                  - generic:
+                    - generic:
+                      - paragraph: From a single farm to global operations, Alethia adapts to your data infrastructure and ecosystem environment.
+      - generic:
+        - generic:
+          - heading "Scientific Credibility to Corporate Climate Action" [level=5]
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - heading "our vision" [level=3]
+        - generic:
+          - generic:
+            - heading "From Data Chaos to Science-Backed, Actionable Insights" [level=2]
+        - generic:
+          - generic:
+            - paragraph: A Breakthrough In Environmental Measurement. Built for Commercial Use.
+    - generic [ref=f32e44]:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - paragraph: real-time, blockchain-backed carbon intelligence
+            - generic:
+              - generic:
+                - generic:
+                  - paragraph: Our Ecosystem-Level Accounting Solutions translate complex scientific data into verifiable, compliance-ready metrics—so you can drive measurable results, not just reports.
+    - generic [ref=f32e51]:
+      - generic [ref=f32e52]:
+        - heading "our solutions" [level=3] [ref=f32e57]
+        - heading "Validating What the Ecosystem Does Naturally" [level=2] [ref=f32e59]
+      - generic [ref=f32e60]:
+        - link [ref=f32e63]:
+          - /url: ./solutions/nature-based
+          - img "close up of leaves with rain drops" [ref=f32e66]
+          - generic [ref=f32e67]:
+            - paragraph [ref=f32e69]: "[Nature-Based Solutions]"
+            - generic [ref=f32e71] [cursor=pointer]
+          - heading "Carbon Markets Built on Truth, Not Estimates" [level=4] [ref=f32e75]
+        - link [ref=f32e78]:
+          - /url: ./solutions/supply-chain
+          - img "drone shot showing a green field" [ref=f32e81]
+          - generic [ref=f32e82]:
+            - paragraph [ref=f32e84]: "[Supply chain Solutions]"
+            - generic [ref=f32e86] [cursor=pointer]
+          - heading "Real-World Emissions Data. Enterprise-Wide Climate Clarity." [level=4] [ref=f32e90]
+    - generic [ref=f32e91]:
+      - generic [ref=f32e93]:
+        - generic [ref=f32e94]:
+          - heading "our technology" [level=3] [ref=f32e99]
+          - heading "Scientific Rigor. Commercial Precision. Unmatched Trust." [level=2] [ref=f32e101]: Scientific Rigor.Commercial Precision.Unmatched Trust.
+        - generic [ref=f32e102]:
+          - heading "The first to bring Atmospheric-Based Digital MRV" [level=4] [ref=f32e103]
+          - heading "to corporate climate action—turning emissions" [level=4] [ref=f32e104]
+          - heading "data into verified insight." [level=4] [ref=f32e105]
+      - generic [ref=f32e114]:
+        - generic [ref=f32e116]:
+          - heading "Atmospheric-Based MRV" [level=3] [ref=f32e121]
+          - heading "We’re the first to bring Atmospheric-Based Digital MRV—trusted by top climate institutions— to corporate climate accountability." [level=2] [ref=f32e123]
+          - link [ref=f32e126] [cursor=pointer]:
+            - /url: ./our-tech/amrv
+            - paragraph [ref=f32e128]: amrv technology
+        - generic [ref=f32e136]:
+          - paragraph [ref=f32e142]: CARBON DIOXIDE FLUX
+          - paragraph [ref=f32e152]: Sensible heat flux
+          - paragraph [ref=f32e162]: Data streaming
+      - generic [ref=f32e177]:
+        - generic [ref=f32e178]:
+          - heading "Blockchain technology" [level=3] [ref=f32e183]
+          - heading "Built on blockchain, our system makes every data point fully traceable, tamper-proof, and verifiable." [level=2] [ref=f32e185]
+        - link [ref=f32e188] [cursor=pointer]:
+          - /url: ./our-tech/amrv
+          - paragraph [ref=f32e190]: Blockchain technology
+      - generic [ref=f32e199]:
+        - generic [ref=f32e200]:
+          - heading "No Spreadsheets" [level=3] [ref=f32e205]
+          - heading "No Guesswork" [level=3] [ref=f32e210]
+        - heading "Just Real, Measured Insight Delivered with Integrity." [level=2] [ref=f32e212]
+    - generic [ref=f32e255]:
+      - heading "Alethia Solves" [level=3] [ref=f32e260]
+      - generic [ref=f32e261]:
+        - 'heading "The Biggest Problem in Climate Action: Trust" [level=3] [ref=f32e263]'
+        - heading "Quantify your impact, prove your progress, and earn the trust of regulators, stakeholders, and the communities you serve." [level=4] [ref=f32e265]
+    - generic [ref=f32e266]:
+      - generic [ref=f32e277]:
+        - heading "We’re Not Just Evolving the System." [level=3] [ref=f32e278]
+        - heading "We’re Redefining It." [level=3] [ref=f32e279]
+      - generic [ref=f32e280]:
+        - generic [ref=f32e283]:
+          - paragraph [ref=f32e286]: "01"
+          - heading "Bring WMO-grade atmospheric monitoring to commercial use" [level=3] [ref=f32e288]
+        - generic [ref=f32e291]:
+          - paragraph [ref=f32e294]: "02"
+          - heading "Integrate real-time sensors, GHG flux tracking, & satellite imaging into one platform" [level=3] [ref=f32e296]
+        - generic [ref=f32e299]:
+          - paragraph [ref=f32e302]: "03"
+          - heading "Apply algorithmic processing at every stage of data collection" [level=3] [ref=f32e304]
+        - generic [ref=f32e307]:
+          - paragraph [ref=f32e310]: "04"
+          - heading "Secure every metric with blockchain for complete traceability and auditability" [level=3] [ref=f32e312]
+    - generic [ref=f32e313]:
+      - generic [ref=f32e314]:
+        - heading "case studies" [level=3] [ref=f32e319]
+        - heading "Explore how leading organizations are using alethia to measure emissions, verify progress, and lead with integrity." [level=2] [ref=f32e321]
+      - generic [ref=f32e323]:
+        - link [ref=f32e324] [cursor=pointer]:
+          - /url: ./resources/case-studies/turning-regenerative-ag-into-verified-climate-performance
+          - generic [ref=f32e328]:
+            - img "fingerprint-like diagram" [ref=f32e332]
+            - generic [ref=f32e334]:
+              - generic [ref=f32e335]:
+                - generic [ref=f32e336]:
+                  - heading "Success Story" [level=3] [ref=f32e340]
+                  - 'heading "Case Study: Adecoagro: From Regenerative Agriculture to Verified Climate Performance" [level=4] [ref=f32e342]'
+                - paragraph [ref=f32e344]: Case Studies - Alethia
+              - generic [ref=f32e345]:
+                - paragraph [ref=f32e347]: Bautista Saubidet Birkner
+                - paragraph [ref=f32e349]: COO
+        - link [ref=f32e354] [cursor=pointer]:
+          - /url: ./resources/case-studies/scaling-alethias-intelligence-with-ai
+          - generic [ref=f32e358]:
+            - img "Woods drone shot" [ref=f32e362]
+            - generic [ref=f32e364]:
+              - generic [ref=f32e365]:
+                - generic [ref=f32e366]:
+                  - heading "Success Story" [level=3] [ref=f32e370]
+                  - heading "Scaling Alethia’s Intelligence with AI" [level=4] [ref=f32e372]
+                - paragraph [ref=f32e374]: Case Studies - Alethia
+              - generic [ref=f32e375]:
+                - paragraph [ref=f32e377]: Alethia
+                - paragraph [ref=f32e379]: Science Team
+    - generic [ref=f32e385]:
+      - generic [ref=f32e386]:
+        - heading "Latest News & Insights" [level=3] [ref=f32e391]
+        - heading "Insights that Move the Market." [level=2] [ref=f32e393]
+      - generic [ref=f32e394]:
+        - link [ref=f32e398] [cursor=pointer]:
+          - /url: ./resources/news-and-media
+          - paragraph [ref=f32e400]: See all
+        - link [ref=f32e407] [cursor=pointer]:
+          - /url: ./resources/news-and-media/alethias-atmospheric-based-measurement-reporting-and-verification-approach
+          - generic [ref=f32e409]:
+            - generic [ref=f32e411]:
+              - paragraph [ref=f32e414]: Media & Press
+              - img "Woods drone shot" [ref=f32e417]
+            - generic [ref=f32e418]:
+              - generic [ref=f32e419]:
+                - paragraph [ref=f32e421]: Apr 2025
+                - generic [ref=f32e422]:
+                  - paragraph [ref=f32e424]: Alethia's Atmospheric-based Measurement, Reporting,…
+                  - paragraph [ref=f32e426]: Each sensor in our projects captures real-time data on greenhouse gas (GHG) emissions, allowing us to track emission reductions
+              - paragraph [ref=f32e430]: full story
+  - generic [ref=f32e437]:
+    - generic [ref=f32e444]:
+      - generic [ref=f32e445]:
+        - generic [ref=f32e446]:
+          - paragraph [ref=f32e447]: Buenos Aires, Argentina
+          - paragraph [ref=f32e448]: Logan, Utah, USA
+        - generic [ref=f32e449]:
+          - paragraph [ref=f32e451]: resources
+          - link [ref=f32e453] [cursor=pointer]:
+            - /url: ./resources/news-and-media
+            - paragraph [ref=f32e455]: News & Media
+          - link [ref=f32e457] [cursor=pointer]:
+            - /url: ./resources/research-and-insights
+            - paragraph [ref=f32e459]: research & insights
+          - link [ref=f32e461] [cursor=pointer]:
+            - /url: ./resources/case-studies
+            - paragraph [ref=f32e463]: case studies
+        - generic [ref=f32e464]:
+          - generic [ref=f32e465]:
+            - generic [ref=f32e466]:
+              - paragraph [ref=f32e468]: alethia
+              - link [ref=f32e470] [cursor=pointer]:
+                - /url: ./our-company
+                - paragraph [ref=f32e472]: company
+              - link [ref=f32e474] [cursor=pointer]:
+                - /url: ./contact
+                - paragraph [ref=f32e476]: let's talk
+            - generic [ref=f32e478]:
+              - paragraph [ref=f32e480]: solutions
+              - link [ref=f32e482] [cursor=pointer]:
+                - /url: ./solutions/nature-based
+                - paragraph [ref=f32e484]: nature-based
+              - link [ref=f32e486] [cursor=pointer]:
+                - /url: ./solutions/supply-chain
+                - paragraph [ref=f32e488]: supply chain
+            - generic [ref=f32e489]:
+              - paragraph [ref=f32e491]: our tech
+              - link [ref=f32e493] [cursor=pointer]:
+                - /url: ./our-tech/amrv
+                - paragraph [ref=f32e495]: amrv
+              - link [ref=f32e497] [cursor=pointer]:
+                - /url: ./our-tech/blockchain
+                - paragraph [ref=f32e499]: blockchain
+          - generic [ref=f32e500]:
+            - generic [ref=f32e501]:
+              - link [ref=f32e503] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/alethiaearth/
+                - paragraph [ref=f32e505]: linkedin
+              - link [ref=f32e507] [cursor=pointer]:
+                - /url: https://www.instagram.com/alethiaearth/?igsh=Nm9iM2FieXc2aDdo#
+                - paragraph [ref=f32e509]: instagram
+            - generic [ref=f32e511]:
+              - paragraph [ref=f32e513]: legals
+              - link [ref=f32e515] [cursor=pointer]:
+                - /url: ./privacy-policy
+                - paragraph [ref=f32e517]: privacy policy
+              - link [ref=f32e519] [cursor=pointer]:
+                - /url: ./terms-of-use
+                - paragraph [ref=f32e521]: TERMS OF USE
+      - generic [ref=f32e522]:
+        - paragraph [ref=f32e529]: © 2025 Alethia - All rights reserved
+        - generic [ref=f32e530]:
+          - link [ref=f32e532] [cursor=pointer]:
+            - /url: https://www.hellohello.is/
+            - paragraph [ref=f32e534]: Made by ++
+          - link [ref=f32e536] [cursor=pointer]:
+            - /url: ./
+            - paragraph [ref=f32e538]: Back to top ↑
+    - generic [ref=f32e543]:
+      - generic [ref=f32e544]:
+        - generic [ref=f32e545]:
+          - heading "Turn Climate Data Into" [level=2] [ref=f32e546]
+          - heading "Business Results" [level=2] [ref=f32e547]
+        - generic [ref=f32e548]:
+          - paragraph [ref=f32e549]: Make real progress with data you can verify,
+          - paragraph [ref=f32e550]: audit, and act on.
+      - link [ref=f32e552] [cursor=pointer]:
+        - /url: ./contact
+        - paragraph [ref=f32e554]: Let’s Talk

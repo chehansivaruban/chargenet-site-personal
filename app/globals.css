@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-sans), sans-serif;
+  --font-display: var(--font-display), sans-serif;
+  
+  /* Cyber and Executive color extensions customized to brand #357BCE */
+  --color-executive-blue: #357BCE;
+  --color-cyber-cyan: #00E5FF;
+
+  /* Redefining default blue scale to align harmoniously with brand color 357BCE */
+  --color-blue-50: #f4f8fd;
+  --color-blue-100: #e8f1fc;
+  --color-blue-200: #c5dcfa;
+  --color-blue-300: #a2c6f7;
+  --color-blue-400: #5d9cf2;
+  --color-blue-500: #4b8de5;
+  --color-blue-600: #357BCE;
+  --color-blue-700: #2b65ac;
+  --color-blue-800: #225089;
+  --color-blue-900: #1c3e6b;
+  --color-blue-950: #0f2038;
+}
+
+@layer base {
+  /* Continuous loop animation styles for Trust Ribbon and custom transitions */
+  @keyframes marquee {
+    0% { transform: translateX(0%); }
+    100% { transform: translateX(-50%); }
+  }
+  
+  .animate-marquee {
+    animation: marquee 30s linear infinite;
+  }
+
+  /* SVG route line draw animation */
+  @keyframes draw-line {
+    to { stroke-dashoffset: 0; }
+  }
+
+  .animate-draw-line {
+    animation: draw-line 2.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+
+  /* Gentle pulse for station nodes */
+  @keyframes node-pulse {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(53, 124, 206, 0.4); }
+    50% { box-shadow: 0 0 0 8px rgba(53, 124, 206, 0); }
+  }
+
+  .animate-node-pulse {
+    animation: node-pulse 3s ease-in-out infinite;
+  }
+}
