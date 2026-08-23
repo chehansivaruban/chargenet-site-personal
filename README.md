@@ -9,5 +9,3 @@
 3. Run the app:
    `npm run dev`
 
-
-this is a test
